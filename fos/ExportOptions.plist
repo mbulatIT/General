@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/mbulatIT/General/raw/master/fos/fos.ipa</string>
+		<string>https://github.com/mbulatIT/General/raw/master/fos/FOS.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://github.com/mbulatIT/General/raw/master/fos/57.png</string>
 		<key>fullSizeImageURL</key>
